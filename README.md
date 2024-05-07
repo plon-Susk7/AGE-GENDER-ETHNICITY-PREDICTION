@@ -1,2 +1,2 @@
 # AGE-GENDER-ETHNICITY-PREDICTION
-Semester project for Machine Learning Project offered by IIITD.
+Semester project for Machine Learning Course offered by IIITD.
